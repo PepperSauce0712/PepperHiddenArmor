@@ -1,0 +1,4 @@
+name: PepperHidenArmor
+version: '${project.version}'
+main: org.pepper.pepperhidenarmor.PepperHidenArmor
+api-version: '1.20'
