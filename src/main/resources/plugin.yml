@@ -1,4 +1,9 @@
 name: PepperHidenArmor
 version: '${project.version}'
-main: org.pepper.pepperhidenarmor.PepperHidenArmor
+main: org.pepper.pepperhiddenarmor.PepperHiddenArmor
 api-version: '1.20'
+authors: [ PepperSauce ]
+commands:
+  hiddenarmor:
+    aliases: [ha, hdar]
+    description: 隱藏盔甲主指令

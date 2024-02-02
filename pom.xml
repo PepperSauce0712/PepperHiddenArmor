@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.pepper</groupId>
-    <artifactId>PepperHidenArmor</artifactId>
+    <artifactId>PepperHiddenArmor</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
